@@ -30,6 +30,10 @@
     font-size: 50px;
 }
 
+svg {
+    width: 100%;
+    height: auto;
+}
 .thumbnail {
     padding: 0 0 15px 0;
     border: none;
